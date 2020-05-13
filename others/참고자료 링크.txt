@@ -1,0 +1,28 @@
+http://www.hardcopyworld.com/ngine/aduino/index.php/archives/3343 >> 전반적인 웹구축 
+
+시리얼 포트 모듈 설치 해야함 
+
+
+
+
+###모듈에러 참고자료
+
+https://github.com/serialport/node-serialport/issues/1910
+
+
+node 버젼 변경시 참고자료
+
+https://futurecreator.github.io/2018/05/28/nodejs-npm-update-latest-or-stable-version/
+
+led GPIO 참고자료 
+
+https://webnautes.tistory.com/836
+
+https://m.blog.naver.com/PostView.nhn?blogId=roboholic84&logNo=220336410478&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+https://itnext.io/introduction-to-iot-with-raspberry-pi-and-node-js-using-rgb-led-lights-77f4750a5ea9
+
+https://www.w3schools.com/nodejs/nodejs_raspberrypi_rgb_led_websocket.asp
+
+자바스크립트 기본문법
+https://blex.me/@baealex/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8javascript-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC
